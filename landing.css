@@ -20,6 +20,7 @@ height: 1orem;
 }
 .hero{
     color: #1E90FF;
+    
 
 }
 .btn{
@@ -37,4 +38,12 @@ body{
 .jay{
     padding:2rem;
     border-radius: 2rem;
+}
+#product1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vw;
+    background-color: pink;
 }
